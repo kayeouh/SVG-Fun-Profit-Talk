@@ -1,0 +1,29 @@
+.double{
+	max-width: 50%; 
+	height: auto; 
+}
+
+.reveal pre code{
+	word-break: break-word;
+}
+
+.full{
+	width: 100%;
+	margin: 30px 0;
+}
+
+.reveal h2{
+	margin-bottom: 3rem; 
+}
+
+.fourth{
+	width: 25%;
+	min-height: 300px;
+	box-sizing: border-box;
+	float: left; 
+}
+
+.fourth img{
+	min-height: 200px;
+	max-height: 200px; 
+}
