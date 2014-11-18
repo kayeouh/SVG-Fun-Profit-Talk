@@ -27,3 +27,7 @@
 	min-height: 200px;
 	max-height: 200px; 
 }
+
+.small-list ul li{
+	font-size: 1.5rem;
+}
